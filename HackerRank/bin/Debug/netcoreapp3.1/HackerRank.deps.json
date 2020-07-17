@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HackerRank/1.0.0": {
+        "dependencies": {
+          "ArtificialIntelligence": "1.0.0",
+          "InterviewPreparationKit": "1.0.0",
+          "Mathematics": "1.0.0",
+          "ProblemSolving": "1.0.0"
+        },
+        "runtime": {
+          "HackerRank.dll": {}
+        }
+      },
+      "ArtificialIntelligence/1.0.0": {
+        "runtime": {
+          "ArtificialIntelligence.dll": {}
+        }
+      },
+      "InterviewPreparationKit/1.0.0": {
+        "runtime": {
+          "InterviewPreparationKit.dll": {}
+        }
+      },
+      "Mathematics/1.0.0": {
+        "runtime": {
+          "Mathematics.dll": {}
+        }
+      },
+      "ProblemSolving/1.0.0": {
+        "runtime": {
+          "ProblemSolving.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HackerRank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArtificialIntelligence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterviewPreparationKit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mathematics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProblemSolving/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

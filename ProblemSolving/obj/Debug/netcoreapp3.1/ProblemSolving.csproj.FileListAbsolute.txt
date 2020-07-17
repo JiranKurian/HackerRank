@@ -1,0 +1,9 @@
+E:\Projects\HackerRank\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.deps.json
+E:\Projects\HackerRank\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.dll
+E:\Projects\HackerRank\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.pdb
+E:\Projects\HackerRank\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csprojAssemblyReference.cache
+E:\Projects\HackerRank\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfoInputs.cache
+E:\Projects\HackerRank\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfo.cs
+E:\Projects\HackerRank\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.CoreCompileInputs.cache
+E:\Projects\HackerRank\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.dll
+E:\Projects\HackerRank\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.pdb

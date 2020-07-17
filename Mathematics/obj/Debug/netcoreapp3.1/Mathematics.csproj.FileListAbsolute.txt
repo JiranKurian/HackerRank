@@ -1,0 +1,9 @@
+E:\Projects\HackerRank\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.deps.json
+E:\Projects\HackerRank\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.dll
+E:\Projects\HackerRank\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.pdb
+E:\Projects\HackerRank\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.csprojAssemblyReference.cache
+E:\Projects\HackerRank\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.AssemblyInfoInputs.cache
+E:\Projects\HackerRank\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.AssemblyInfo.cs
+E:\Projects\HackerRank\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.csproj.CoreCompileInputs.cache
+E:\Projects\HackerRank\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.dll
+E:\Projects\HackerRank\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.pdb

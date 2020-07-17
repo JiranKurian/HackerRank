@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArtificialIntelligence\ArtificialIntelligence.csproj" />
+    <ProjectReference Include="..\InterviewPreparationKit\InterviewPreparationKit.csproj" />
+    <ProjectReference Include="..\Mathematics\Mathematics.csproj" />
+    <ProjectReference Include="..\ProblemSolving\ProblemSolving.csproj" />
+  </ItemGroup>
+
+</Project>
