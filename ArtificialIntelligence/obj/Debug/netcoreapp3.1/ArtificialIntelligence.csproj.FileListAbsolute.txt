@@ -1,9 +1,0 @@
-E:\Projects\HackerRank\ArtificialIntelligence\bin\Debug\netcoreapp3.1\ArtificialIntelligence.deps.json
-E:\Projects\HackerRank\ArtificialIntelligence\bin\Debug\netcoreapp3.1\ArtificialIntelligence.dll
-E:\Projects\HackerRank\ArtificialIntelligence\bin\Debug\netcoreapp3.1\ArtificialIntelligence.pdb
-E:\Projects\HackerRank\ArtificialIntelligence\obj\Debug\netcoreapp3.1\ArtificialIntelligence.AssemblyInfoInputs.cache
-E:\Projects\HackerRank\ArtificialIntelligence\obj\Debug\netcoreapp3.1\ArtificialIntelligence.AssemblyInfo.cs
-E:\Projects\HackerRank\ArtificialIntelligence\obj\Debug\netcoreapp3.1\ArtificialIntelligence.csproj.CoreCompileInputs.cache
-E:\Projects\HackerRank\ArtificialIntelligence\obj\Debug\netcoreapp3.1\ArtificialIntelligence.dll
-E:\Projects\HackerRank\ArtificialIntelligence\obj\Debug\netcoreapp3.1\ArtificialIntelligence.pdb
-E:\Projects\HackerRank\ArtificialIntelligence\obj\Debug\netcoreapp3.1\ArtificialIntelligence.csprojAssemblyReference.cache

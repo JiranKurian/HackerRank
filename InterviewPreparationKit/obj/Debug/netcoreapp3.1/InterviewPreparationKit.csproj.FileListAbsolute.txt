@@ -1,9 +1,0 @@
-E:\Projects\HackerRank\InterviewPreparationKit\bin\Debug\netcoreapp3.1\InterviewPreparationKit.deps.json
-E:\Projects\HackerRank\InterviewPreparationKit\bin\Debug\netcoreapp3.1\InterviewPreparationKit.dll
-E:\Projects\HackerRank\InterviewPreparationKit\bin\Debug\netcoreapp3.1\InterviewPreparationKit.pdb
-E:\Projects\HackerRank\InterviewPreparationKit\obj\Debug\netcoreapp3.1\InterviewPreparationKit.csprojAssemblyReference.cache
-E:\Projects\HackerRank\InterviewPreparationKit\obj\Debug\netcoreapp3.1\InterviewPreparationKit.AssemblyInfoInputs.cache
-E:\Projects\HackerRank\InterviewPreparationKit\obj\Debug\netcoreapp3.1\InterviewPreparationKit.AssemblyInfo.cs
-E:\Projects\HackerRank\InterviewPreparationKit\obj\Debug\netcoreapp3.1\InterviewPreparationKit.csproj.CoreCompileInputs.cache
-E:\Projects\HackerRank\InterviewPreparationKit\obj\Debug\netcoreapp3.1\InterviewPreparationKit.dll
-E:\Projects\HackerRank\InterviewPreparationKit\obj\Debug\netcoreapp3.1\InterviewPreparationKit.pdb

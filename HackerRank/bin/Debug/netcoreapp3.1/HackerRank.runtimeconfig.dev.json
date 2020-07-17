@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\jiran\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jiran\\.nuget\\packages"
-    ]
-  }
-}
