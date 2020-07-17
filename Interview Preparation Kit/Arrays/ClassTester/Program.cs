@@ -1,6 +1,7 @@
 ﻿using System;
 using Arrays;
 
+
 namespace ClassTester
 {
     class Program
@@ -10,7 +11,8 @@ namespace ClassTester
             // D2ArrayDS.Main();
             // ArraysLeftRotation.Main();
             // NewYearChaos.Main();
-            MinimumSwaps2.Main();
+            // MinimumSwaps2.Main();
+            ArrayManipulation.Main();
         }
     }
 }

@@ -10,9 +10,15 @@ namespace Arrays
         static int minimumSwaps(int[] arr)
         {
 
-            int start = arr.Min();
+            int start = int.MaxValue;
             int swapCount = 0;
             int swapTemp = 0;
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i] < start)
+                    start = arr[i];
+            }
 
             for (int i = 0; i < arr.Length; i++)
             {
@@ -87,8 +93,6 @@ namespace Arrays
 
             // answer = 49990
 
-            string str2 = "7 1 3 2 4 5 6";
-
             string[] arr = str.Split(' ');
             int[] a = new int[arr.Length];
 
@@ -96,6 +100,8 @@ namespace Arrays
             {
                 a[i] = int.Parse(arr[i]);
             }
+            int[] b = new int[a.Length];
+            Array.Copy(a, b, a.Length);
 
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
@@ -110,7 +116,7 @@ namespace Arrays
             Stopwatch stopwatch2 = new Stopwatch();
             stopwatch2.Start();
 
-            Console.WriteLine(minimumSwaps(a));
+            Console.WriteLine(minimumSwaps(b));
 
             TimeSpan ts2 = stopwatch2.Elapsed;
             Console.WriteLine("Time taken for SillySort : " + ts2.Milliseconds + " Milli Seconds");
